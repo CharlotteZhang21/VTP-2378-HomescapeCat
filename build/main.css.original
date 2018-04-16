@@ -421,7 +421,7 @@ a {
 /*iPhone X landscape*/
 @media (min-aspect-ratio: 724 / 354) and (orientation: landscape) {
   #chair {
-    top: 65%; } }
+    top: 62%; } }
 
 @-webkit-keyframes swinging {
   0% {

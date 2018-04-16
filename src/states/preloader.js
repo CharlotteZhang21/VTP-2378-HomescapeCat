@@ -45,6 +45,9 @@
 
          this.game.load.image('hand', PiecSettings.assetsDir + 'hand.png');
 
+         this.game.load.image('spark-particle', PiecSettings.assetsDir + 'spark-particle.png');
+         this.game.load.image('star-particle', PiecSettings.assetsDir + 'star-particle.png');
+
          this.game.global.animations = {};
          
          PiecSettings.animation = PiecSettings.animation || {};

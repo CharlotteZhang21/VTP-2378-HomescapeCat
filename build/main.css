@@ -199,8 +199,8 @@ a {
   text-decoration: none; }
 
 #vungle-close {
-  opacity: 0;
-  pointer-events: none; }
+  opacity: 1;
+  pointer-events: all; }
 
 #vungle-close.visible {
   opacity: 1;
@@ -421,7 +421,7 @@ a {
 /*iPhone X landscape*/
 @media (min-aspect-ratio: 724 / 354) and (orientation: landscape) {
   #chair {
-    top: 65%; } }
+    top: 62%; } }
 
 @-webkit-keyframes swinging {
   0% {
